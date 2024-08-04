@@ -1,0 +1,70 @@
+[[ITKIOWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "51b9ba735f58209fbdb9f0e21fe7e230d833b7d5"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "fa1e1f5b432c44b5eeb14eccabe734c0f7a4534d3a1ec5815c92b96ebd248da8"
+    url = "https://github.com/divital-coder/ITKLoadWrapper_jll.jl/releases/download/ITKIOWrapper-v1.0.0+1/ITKIOWrapper.v1.0.0.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
+[[ITKIOWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "56511de753165c6388b9cb020e791d9d2b78efc9"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "25cff1c4aaa33ce01c92626ad144010b1b8348bfa679be33d34ed18561658fb9"
+    url = "https://github.com/divital-coder/ITKLoadWrapper_jll.jl/releases/download/ITKIOWrapper-v1.0.0+1/ITKIOWrapper.v1.0.0.x86_64-linux-gnu-julia_version+1.11.0.tar.gz"
+[[ITKIOWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "e9f60d677c804b9c2b7f2a9613b911d57c3c03a4"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "7206038b8a4494167a3847c4769ee9a67e16ca729c4b605d3bab4d6e4e9f31d1"
+    url = "https://github.com/divital-coder/ITKLoadWrapper_jll.jl/releases/download/ITKIOWrapper-v1.0.0+1/ITKIOWrapper.v1.0.0.x86_64-linux-gnu-julia_version+1.12.0.tar.gz"
+[[ITKIOWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "f4f82915c3d1ec5e4ed16af458de73cc37bf466b"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "c5876161b6abf164ae199997999c87a67d0172af68efaa5edf1e1bc1dc3799d5"
+    url = "https://github.com/divital-coder/ITKLoadWrapper_jll.jl/releases/download/ITKIOWrapper-v1.0.0+1/ITKIOWrapper.v1.0.0.x86_64-linux-gnu-julia_version+1.6.3.tar.gz"
+[[ITKIOWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "f4f82915c3d1ec5e4ed16af458de73cc37bf466b"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "c5876161b6abf164ae199997999c87a67d0172af68efaa5edf1e1bc1dc3799d5"
+    url = "https://github.com/divital-coder/ITKLoadWrapper_jll.jl/releases/download/ITKIOWrapper-v1.0.0+1/ITKIOWrapper.v1.0.0.x86_64-linux-gnu-julia_version+1.7.0.tar.gz"
+[[ITKIOWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "f4f82915c3d1ec5e4ed16af458de73cc37bf466b"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "c5876161b6abf164ae199997999c87a67d0172af68efaa5edf1e1bc1dc3799d5"
+    url = "https://github.com/divital-coder/ITKLoadWrapper_jll.jl/releases/download/ITKIOWrapper-v1.0.0+1/ITKIOWrapper.v1.0.0.x86_64-linux-gnu-julia_version+1.8.2.tar.gz"
+[[ITKIOWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "f4f82915c3d1ec5e4ed16af458de73cc37bf466b"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "c5876161b6abf164ae199997999c87a67d0172af68efaa5edf1e1bc1dc3799d5"
+    url = "https://github.com/divital-coder/ITKLoadWrapper_jll.jl/releases/download/ITKIOWrapper-v1.0.0+1/ITKIOWrapper.v1.0.0.x86_64-linux-gnu-julia_version+1.9.0.tar.gz"
